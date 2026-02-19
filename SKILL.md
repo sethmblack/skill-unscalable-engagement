@@ -3,7 +3,7 @@ name: unscalable-engagement
 description: Design handcrafted, unscalable customer engagement to build deep understanding before scaling. Identify opportunities to do things that do not scale - because in order to scale, you must first do w...
 license: MIT
 metadata:
-  version: 1.0.5250
+  version: 1.0.5251
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
